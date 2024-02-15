@@ -3,7 +3,7 @@
 using namespace std;
 
 int sumar(int a,int b,int c, int &resp){
-   resp=a+b+c;
+    resp=a+b+c;
     return resp;
 }
 void mostrar(int a,int b, int c, int resp){
